@@ -2,12 +2,11 @@
   <h1>👋 Hello, I'm Praveen Mahto!</h1>
   <h3>A Passionate Frontend Developer from India 🇮🇳</h3>
 </div>
+<p align="left"> <a href="https://twitter.com/mahto_praveen" target="blank"><img src="https://img.shields.io/twitter/follow/mahto_praveen?logo=twitter&style=for-the-badge" alt="mahto_praveen" /></a> </p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mahto-praveen&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://twitter.com/mahto_praveen" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/mahto_praveen?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
+
 </div>
 
 ---
