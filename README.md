@@ -15,7 +15,7 @@
 - 💻 Frontend Developer with a love for crafting beautiful, user-friendly interfaces
 - 🔍 Passionate about learning new technologies and building innovative solutions
 - 🌍 Based in India, open to remote opportunities worldwide
-- 📫 Reach me at: [Twitter](https://twitter.com/mahto_praveen) | [Email](mailto:your.email@example.com)
+- 📫 Reach me at: [Twitter](https://twitter.com/mahto_praveen) | [Email](mailto:praveenmpk11@gmail.com)
 
 ---
 
