@@ -1,69 +1,56 @@
-<div align="center">
-  <h1>👋 Hello, I'm Praveen Mahto!</h1>
-  <h3>Java Full Stack Developer | CDAC PG-DAC | MCA BIT Mesra</h3>
-</div>
+# Hi there 👋, I'm Praveen Kumar Mahto  
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahto-praveen&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+🚀 A passionate **Java Full Stack Developer** fresher with a Post Graduate Diploma from **C-DAC** and MCA from **BIT Mesra**.  
+💡 Skilled in building scalable applications using **Java, Spring Boot, React, MySQL** and modern software engineering practices.  
+🌱 Currently exploring advanced **Microservices & Cloud** concepts.  
 
 ---
 
-### 🌟 About Me
-- 💻 Aspiring **Java Full Stack Developer** with a strong foundation in Java, Spring Boot, React.js, and MySQL  
-- 🎓 Completed **Post Graduate Diploma in Advanced Computing (PG-DAC)** at **C-DAC Pune**  
-- 🎓 MCA graduate from **BIT Mesra**  
-- 🔍 Passionate about building scalable, user-friendly applications and solving real-world problems  
-- 🌍 Based in India | Open to software development opportunities  
-- 📫 Reach me at: [Email](mailto:praveenmpk11@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mahto-praveen/)  
+## 🔥 About Me  
+- 🎓 Post Graduate Diploma (C-DAC) | MCA (BIT Mesra)  
+- 💻 Interests: Full Stack Development | Software Engineering | System Design  
+- 🌍 Open to **Java Full Stack / Backend Developer** opportunities  
+- 📫 Reach me at: **yourmail@gmail.com**  
 
 ---
 
-### 🛠️ Languages & Tools
-<div align="center">
-  <!-- Core Full Stack Skills -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" title="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40" title="Spring Boot"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="40" height="40" title="React.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" title="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" title="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" title="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" title="GitHub"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" title="Docker"/>
-</div>
+## 🛠 Tech Stack  
+
+### 🌐 Frontend  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+
+### ⚙️ Backend  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)  
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)  
+
+### 🗄️ Database & Tools  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
 
 ---
 
-### 📊 My GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahto-praveen&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mahto-praveen&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahto-praveen&theme=radical" alt="GitHub Streak" />
-</div>
+## 📊 GitHub Stats  
+
+![PK's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahto-praveen&show_icons=true&theme=tokyonight)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mahto-praveen&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahto-praveen&layout=compact&theme=tokyonight)  
 
 ---
 
-### 🚀 Featured Projects
-- 🏆 **PlayProFootball** – Full Stack Tournament Management App (Java, Spring Boot, React.js, MySQL, JWT Auth)  
-- 📌 **LeetCode Practice** – 100+ DSA problems solved in Java  
-- 🌐 More projects coming soon...  
+## 🌐 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahto-praveen/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveenmpk11@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahto-praveen)  
 
 ---
-
-### 🌐 Let's Connect
-<div align="center">
-  <a href="https://www.linkedin.com/in/mahto-praveen/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="mailto:praveenmpk11@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <p>💡 <i>“Learning, building, and growing into a Full Stack Developer.”</i></p>
-</div>
+⭐️ From [YOUR_USERNAME](https://github.com/mahto-praveen)
